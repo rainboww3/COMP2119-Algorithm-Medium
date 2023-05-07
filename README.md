@@ -5,9 +5,9 @@ Repository for Algorithm study.
 ## Topics related to:
 
 -Induction   
--Time Complexity: Big-O
+-Time Complexity: Big-O   
 -Recursion   
--Linked list
+-Linked list   
 -Graph   
 -Hashing   
 -Tree: BST, AVL tree   
