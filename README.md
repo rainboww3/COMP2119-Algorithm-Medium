@@ -1,4 +1,4 @@
-# 🌌COMP2119-Algorithm-Medium
+# 🌌COMP2119_Algorithm_Medium
 
 Repository for Algorithm study.
 
